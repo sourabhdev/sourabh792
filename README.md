@@ -2,22 +2,22 @@
 
 ![Profile Views](https://github.com/sourabhdev/sourabh792/)
 
-I'm a passionate **[Your Profession/Title]** specializing in **[Your Tech Stack]**. I love building projects, contributing to open source, and sharing knowledge with the developer community.
+With 9.6 Years of experience in WordPress Developer as designing, developing & optimizing WordPress websites. Proficient in WordPress, PHP, and custom theme development, with a strong focus on enhancing user engagement and site performance. Demonstrated ability to lead development teams, and deliver innovative web solutions that align with business objectives.
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **[Technology/Framework]**
+- 🌱 Currently learning **[Generative AI]**
 - 💡 Exploring **[Field of Interest]**
 - 👯 Looking to collaborate on **[Project/Technology]**
 - 🎯 Goal: **[Your Goal for the Year]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Contact Info]**
+- 💬 Ask me about **[WordPress]**
+- 📫 How to reach me: **[sourabh792@gmail.com]**
 
 ---
 
 ### 🛠️ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,docker,kubernetes,aws)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,wordpress,js,bootstrap,php,py,react,mysql,ps,ai,figma,cloudflare,python)
 
 ---
 
