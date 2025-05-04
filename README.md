@@ -2,7 +2,7 @@
 
 ![Profile Views](https://github.com/sourabhdev/sourabh792/)
 
-With 9.6 Years of experience in WordPress Developer as designing, developing & optimizing WordPress websites. Proficient in WordPress, PHP, and custom theme development, with a strong focus on enhancing user engagement and site performance. Demonstrated ability to lead development teams, and deliver innovative web solutions that align with business objectives.
+With 9.2 Years of experience as a WordPress Developer, designing, developing & optimizing WordPress websites. Proficient in WordPress, PHP, and custom theme development, strongly focusing on enhancing user engagement and site performance. Demonstrated ability to lead development teams and deliver innovative web solutions that align with business objectives.
 
 ---
 
@@ -87,4 +87,4 @@ HTML Websites:-
 
 ---
 
-⭐ **Feel free to ask any of my repositories and follow me for updates!** ⭐
+⭐ **Feel free to ask about any of my repositories and follow me for updates!** ⭐
